@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aditya M
-- 👀 I’m interested in data science, open source and astronomy
-- 🌱 I’m currently learning big data, hadoop
-- 💞️ I’m looking to collaborate on data engineer project and yes on astronomy events too.
+- 👀 Interested in data science, open source and astronomy
+- 🌱 Working as Data Engineer
+- 💞️ Looking to collaborate on data engineer project and yes on astronomy events too.
 - 📫 How to reach me malodeadi@gmail.com 
 
 <!---
